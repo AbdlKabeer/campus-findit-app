@@ -1,0 +1,29 @@
+# React Native / Expo
+node_modules/
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+yarn-debug.log
+yarn-error.log
+
+# macOS
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+
+# Environment variables
+.env
+.env.local
+.env.*
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat

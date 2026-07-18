@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1284" height="2778" viewBox="0 0 1284 2778" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1284" height="2778" fill="#FFFFFF"/>
+  <circle cx="642" cy="1200" r="150" fill="#4F46E5"/>
+  <path d="M642 1100C600 1100 567 1133 567 1175C567 1217 600 1250 642 1250C684 1250 717 1217 717 1175C717 1133 684 1100 642 1100ZM642 1125C671 1125 692 1146 692 1175C692 1204 671 1225 642 1225C613 1225 592 1204 592 1175C592 1146 613 1125 642 1125Z" fill="white"/>
+  <path d="M642 1150C628 1150 617 1161 617 1175C617 1189 628 1200 642 1200C656 1200 667 1189 667 1175C667 1161 656 1150 642 1150Z" fill="white"/>
+  <text x="642" y="1450" font-family="Arial, sans-serif" font-size="72" font-weight="bold" text-anchor="middle" fill="#4F46E5">FindIt</text>
+  <text x="642" y="1520" font-family="Arial, sans-serif" font-size="32" text-anchor="middle" fill="#6B7280">Find Your Perfect Roommate & Hostel</text>
+</svg>

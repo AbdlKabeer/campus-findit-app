@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="512" cy="512" r="400" fill="#4F46E5"/>
+  <path d="M512 300C450 300 400 350 400 412C400 474 450 524 512 524C574 524 624 474 624 412C624 350 574 300 512 300ZM512 340C552 340 584 372 584 412C584 452 552 484 512 484C472 484 440 452 440 412C440 372 472 340 512 340Z" fill="white"/>
+  <path d="M512 380C492 380 476 396 476 416C476 436 492 452 512 452C532 452 548 436 548 416C548 396 532 380 512 380Z" fill="white"/>
+  <rect x="350" y="600" width="324" height="80" rx="40" fill="white"/>
+  <text x="512" y="650" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle" fill="#4F46E5">FindIt</text>
+</svg>
